@@ -2,3 +2,6 @@
 
 1. Feel the desire for a cup of tea
 1. Put the kettle on
+    1. Fill the kettle with water
+    1. Ensure the kettle has power
+    1. Switch on the kettle
