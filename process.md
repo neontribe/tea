@@ -6,3 +6,4 @@
     1. Fill the kettle with water
     1. Ensure the kettle has power
     1. Switch on the kettle
+1. Select a mug, ideally your favorite one
